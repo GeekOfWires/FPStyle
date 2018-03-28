@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px)
+{
+    .drawer-content
+    {
+        display: none;
+    }
+    .drawer-head
+    {
+        display: none;
+    }
+}
